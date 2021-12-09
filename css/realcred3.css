@@ -1,0 +1,55 @@
+.bg-green
+{
+   background-color: rgb(5, 112, 112); 
+}
+.bg-green a:hover
+{
+    text-shadow: 1px 1px 1px;
+}
+.emprestimo
+{
+    background-color: rgb(25, 209, 209);
+    min-height: 80vh;
+}
+#col-img
+{
+    background-image: url("../img/realcred_nossos_produtos.jpg" );
+    min-height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.alinhado
+{
+    display: flex;
+}
+.img-1
+{
+    margin-left: 55px;
+    margin-right: 25px;
+}
+.img-2
+{
+    margin-right: 25px;
+    margin-left: 25px;
+}
+.img-3
+{
+    margin-right: 25px;
+    margin-left: 25px;
+}
+.img-4
+{
+    margin-right: 25px;
+    margin-left: 25px;
+}
+.img-5
+{
+    margin-right: 25px;
+    margin-left: 25px;
+}
+.img-100
+{
+    width: 100%;
+    height: 100%;
+}
