@@ -1,0 +1,15 @@
+C:\Users\Marcus\Desktop\Projeto PI - REALCRED\bin\Debug\net6.0\Projeto PI - REALCRED.exe
+C:\Users\Marcus\Desktop\Projeto PI - REALCRED\bin\Debug\net6.0\Projeto PI - REALCRED.deps.json
+C:\Users\Marcus\Desktop\Projeto PI - REALCRED\bin\Debug\net6.0\Projeto PI - REALCRED.runtimeconfig.json
+C:\Users\Marcus\Desktop\Projeto PI - REALCRED\bin\Debug\net6.0\Projeto PI - REALCRED.dll
+C:\Users\Marcus\Desktop\Projeto PI - REALCRED\bin\Debug\net6.0\ref\Projeto PI - REALCRED.dll
+C:\Users\Marcus\Desktop\Projeto PI - REALCRED\bin\Debug\net6.0\Projeto PI - REALCRED.pdb
+C:\Users\Marcus\Desktop\Projeto PI - REALCRED\obj\Debug\net6.0\Projeto PI - REALCRED.csproj.AssemblyReference.cache
+C:\Users\Marcus\Desktop\Projeto PI - REALCRED\obj\Debug\net6.0\Projeto PI - REALCRED.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcus\Desktop\Projeto PI - REALCRED\obj\Debug\net6.0\Projeto PI - REALCRED.AssemblyInfoInputs.cache
+C:\Users\Marcus\Desktop\Projeto PI - REALCRED\obj\Debug\net6.0\Projeto PI - REALCRED.AssemblyInfo.cs
+C:\Users\Marcus\Desktop\Projeto PI - REALCRED\obj\Debug\net6.0\Projeto PI - REALCRED.csproj.CoreCompileInputs.cache
+C:\Users\Marcus\Desktop\Projeto PI - REALCRED\obj\Debug\net6.0\Projeto PI - REALCRED.dll
+C:\Users\Marcus\Desktop\Projeto PI - REALCRED\obj\Debug\net6.0\ref\Projeto PI - REALCRED.dll
+C:\Users\Marcus\Desktop\Projeto PI - REALCRED\obj\Debug\net6.0\Projeto PI - REALCRED.pdb
+C:\Users\Marcus\Desktop\Projeto PI - REALCRED\obj\Debug\net6.0\Projeto PI - REALCRED.genruntimeconfig.cache
